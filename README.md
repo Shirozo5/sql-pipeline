@@ -251,9 +251,9 @@ directory.
 I build clear, reproducible data analyses — from raw SQL through to charts and
 written insights that non-technical stakeholders can act on.
 
-- **Fiverr:** [your-fiverr-profile]
-- **Upwork:** [your-upwork-profile]
-- **Email:** [your@email.com]
+- **Fiverr:** [@muhammad_abbe]
+- **Upwork:** [https://www.upwork.com/freelancers/~0146279f64a593317a?mp_source=share]
+- **Email:** [abdul_lord@hotmail.com]
 
 Available for SQL reporting, dashboard work, data cleaning and ad-hoc analysis.
 
